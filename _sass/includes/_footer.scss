@@ -1,0 +1,9 @@
+.site-footer {
+  @extend %padding-small;
+  background: $brand-color;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  color: #716F87;
+  font-size: 0.9em;
+}
