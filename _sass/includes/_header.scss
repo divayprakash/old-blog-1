@@ -48,13 +48,32 @@
       float: left;
       margin-right: 0.4em;
     }
-    @media (max-width: 1100px) {
+  }
+
+  @media (max-width: 600px) {
+    .avatar {
+      height: 6em;
+      width: 6em;
+      float: none;
+      border-radius: 0.3em;
+      display: block;
+      margin: auto;
+      margin-top: 3%;
+    }
+    .site-title, .site-subtitle {
+      padding-top: 3%;
+      margin-left: 0;
+      width: 100%;
+      text-align: center;
+    }
+    .site-nav {
+      float: right;
+      position: relative;
+      left: -50%;
       ul {
-        display: inline-block;
-        float: left;
+        position: relative;
+        left: 50%;
         padding-top: $padding-small;
-        text-align: left;
-        width: 100%;
       }
     }
   }
