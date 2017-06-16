@@ -80,15 +80,13 @@ header {
   i {
     vertical-align: middle;
   }
-}
 
-@media screen and (max-width: 600px) {
-	#post-nav {
-		a {
-			width: 100%;
-		}
-		a.first-child {
-			border-right: none;
-		}
-	}
+  @media (max-width: 600px) {
+    a {
+      width: 100%;
+    }
+    a.first-child {
+      border-right: none;
+    }
+  }
 }
