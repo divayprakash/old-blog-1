@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World!
+tags: [hello]
 ---
 Finally.....we are live! :metal:
 
