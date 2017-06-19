@@ -26,12 +26,6 @@ footer {
   font-size: 0.9em;
   display: inline-block;
   text-align: center;
-  .meta {
-    color: rgba($text-color, .5);
-    letter-spacing: 0.1em;
-    display: inline;
-    text-transform: uppercase;
-  }
   a.button {
     margin-left: 1em;
   }
@@ -40,13 +34,14 @@ header {
   h1 {
     margin: 0;
   }
-  .meta {
+}
+.meta {
     color: rgba($text-color, .5);
     font-size: 0.9em;
     letter-spacing: 0.1em;
     margin: 0;
+    display: inline;
     text-transform: uppercase;
-  }
 }
 .feature-image {
   padding: 0%;
