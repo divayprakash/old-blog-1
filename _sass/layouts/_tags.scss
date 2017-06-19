@@ -1,5 +1,8 @@
 .tag-title {
-  color: $link-color;
+  margin-bottom: 0;
+  a {
+    color: $link-color;
+  }
 }
 .tagged-post {
   .title {
