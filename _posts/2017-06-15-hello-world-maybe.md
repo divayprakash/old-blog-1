@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello World!..... (maybe!)
+categories: [general, maybe]
 tags: [hello]
 ---
 So..... after 3 days of getting to grips with Jekyll, wandering senselessly through Liquid and Textile and wading through the murky waters of Ruby, I'm finally here! The blog is complete as a local repository on my machine and now just the final push to GitHub Pages remains. Let's see if this works shall we?
