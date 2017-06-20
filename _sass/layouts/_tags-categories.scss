@@ -1,0 +1,21 @@
+.tc-list {
+  font-size: 0.9em;
+  a.button {
+    margin-left: 1em;
+  }
+  a.button:first-child {
+    margin-left: 0;
+  }
+}
+.tc-title {
+  margin-bottom: 0;
+  a {
+    color: $link-color;
+  }
+}
+.tc-post {
+  .title {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
