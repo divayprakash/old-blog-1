@@ -43,4 +43,3 @@ sass:
 gems:
   - jekyll-paginate
   - jemoji
-  - jekyll-avatar
