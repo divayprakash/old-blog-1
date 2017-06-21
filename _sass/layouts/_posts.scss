@@ -66,6 +66,13 @@ header {
     padding-top: 0;
   }
 }
+.post-content {
+  p {
+    img {
+      box-shadow: rgba(0, 0, 0, 0.8) 0 0 20px;
+    }
+  }
+}
 // Post navigation
 #post-nav {
   width:100%;
